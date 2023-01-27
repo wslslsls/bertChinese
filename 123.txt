@@ -3,3 +3,7 @@ https://pypi.tuna.tsinghua.edu.cn/packages/88/f6/ccde5f9bcb35a935531e2d65603270a
 https://pypi.tuna.tsinghua.edu.cn/packages/3c/f8/b6d7fd81464553e24a07f9d444126db3beb902b6bff6fcd6524d8284097f/protobuf-3.19.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=7a552af4dc34793803f4e735aabe97ffc45962dfd3a237bdde242bff5a3de684
 
 https://pypi.tuna.tsinghua.edu.cn/packages/05/70/ee7968f4a92ff9f95354d0ccaa9c0ba17b2644a33472ea845d92dd4e4821/tensorboard-2.11.0-py3-none-any.whl#sha256=a0e592ee87962e17af3f0dce7faae3fbbd239030159e9e625cce810b7e35c53d
+
+https://pypi.tuna.tsinghua.edu.cn/packages/bc/19/404708a7e54ad2798907210462fd950c3442ea51acc8790f3da48d2bee8b/opt_einsum-3.3.0-py3-none-any.whl#sha256=2455e59e3947d3c275477df7f5205b30635e266fe6dc300e3d9f9646bfcea147
+
+https://pypi.tuna.tsinghua.edu.cn/packages/dd/87/de5c32fa1b1c6c3305d576e299801d8655c175ca9557019906247b994331/absl_py-1.4.0-py3-none-any.whl#sha256=0d3fe606adfa4f7db64792dd4c7aee4ee0c38ab75dfd353b7a83ed3e957fcb47
