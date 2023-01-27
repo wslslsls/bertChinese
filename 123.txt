@@ -1,3 +1,5 @@
 https://pypi.tuna.tsinghua.edu.cn/packages/88/f6/ccde5f9bcb35a935531e2d65603270a9233c7d36f86a97041cc917388067/tensorflow-2.11.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=335ab5cccd7a1c46e3d89d9d46913f0715e8032df8d7438f9743b3fb97b39f69
 
 https://pypi.tuna.tsinghua.edu.cn/packages/3c/f8/b6d7fd81464553e24a07f9d444126db3beb902b6bff6fcd6524d8284097f/protobuf-3.19.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=7a552af4dc34793803f4e735aabe97ffc45962dfd3a237bdde242bff5a3de684
+
+https://pypi.tuna.tsinghua.edu.cn/packages/05/70/ee7968f4a92ff9f95354d0ccaa9c0ba17b2644a33472ea845d92dd4e4821/tensorboard-2.11.0-py3-none-any.whl#sha256=a0e592ee87962e17af3f0dce7faae3fbbd239030159e9e625cce810b7e35c53d
