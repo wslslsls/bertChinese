@@ -13,3 +13,5 @@ https://pypi.tuna.tsinghua.edu.cn/packages/f6/d6/44792ec668bcda7d91913c75237314e
 https://pypi.tuna.tsinghua.edu.cn/packages/b6/85/5c5ac0a8c5efdfab916e9c6bc18963f6a6996a8a1e19ec4ad8c9ac9c623c/tensorboard_plugin_wit-1.7.0-py3-none-any.whl#sha256=ee775f04821185c90d9a0e9c56970ee43d7c41403beb6629385b39517129685b
 
 https://pypi.tuna.tsinghua.edu.cn/packages/b2/49/2233e63052d5686c72131b579837ddfb98ba9dd0b92bb91efcb441ada8ce/opt_einsum-3.2.0-py3-none-any.whl#sha256=f6fbfbb759e670305c5c9a4dc4432e30f65e06fede88293dacfe19915af73386
+
+https://pypi.tuna.tsinghua.edu.cn/packages/2c/03/e3e19d3faf430ede32e41221b294e37952e06acc96781c417ac25d4a0324/absl_py-1.0.0-py3-none-any.whl#sha256=84e6dcdc69c947d0c13e5457d056bd43cade4c2393dce00d684aedea77ddc2a3
