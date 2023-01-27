@@ -7,3 +7,7 @@ https://pypi.tuna.tsinghua.edu.cn/packages/05/70/ee7968f4a92ff9f95354d0ccaa9c0ba
 https://pypi.tuna.tsinghua.edu.cn/packages/bc/19/404708a7e54ad2798907210462fd950c3442ea51acc8790f3da48d2bee8b/opt_einsum-3.3.0-py3-none-any.whl#sha256=2455e59e3947d3c275477df7f5205b30635e266fe6dc300e3d9f9646bfcea147
 
 https://pypi.tuna.tsinghua.edu.cn/packages/dd/87/de5c32fa1b1c6c3305d576e299801d8655c175ca9557019906247b994331/absl_py-1.4.0-py3-none-any.whl#sha256=0d3fe606adfa4f7db64792dd4c7aee4ee0c38ab75dfd353b7a83ed3e957fcb47
+
+https://pypi.tuna.tsinghua.edu.cn/packages/f6/d6/44792ec668bcda7d91913c75237314e688f70415ab2acd7172c845f0b24f/opt_einsum-2.3.2.tar.gz#sha256=d3d464b4da7ef09e444c30e4003a27def37f85ff10ff2671e5f7d7813adac35b
+
+https://pypi.tuna.tsinghua.edu.cn/packages/b6/85/5c5ac0a8c5efdfab916e9c6bc18963f6a6996a8a1e19ec4ad8c9ac9c623c/tensorboard_plugin_wit-1.7.0-py3-none-any.whl#sha256=ee775f04821185c90d9a0e9c56970ee43d7c41403beb6629385b39517129685b
