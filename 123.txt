@@ -17,3 +17,9 @@ https://pypi.tuna.tsinghua.edu.cn/packages/b2/49/2233e63052d5686c72131b579837ddf
 https://pypi.tuna.tsinghua.edu.cn/packages/2c/03/e3e19d3faf430ede32e41221b294e37952e06acc96781c417ac25d4a0324/absl_py-1.0.0-py3-none-any.whl#sha256=84e6dcdc69c947d0c13e5457d056bd43cade4c2393dce00d684aedea77ddc2a3
 
 https://pypi.tuna.tsinghua.edu.cn/packages/ab/2f/c6f380aec0b064bccbd81141fecba9862b5634c838f13fff727adc84ceb9/libclang-14.0.1-py2.py3-none-manylinux1_x86_64.whl#sha256=02bacd219959601c627872f2c7c7090ce57cf6bd497618388e41813c7ee75a3a
+
+
+
+
+https://pypi.tuna.tsinghua.edu.cn/packages/86/6c/9eabce1c1cdaa657751a802f94d71ca29b8f82e10cac97c3fd5f8c82736c/google_pasta-0.1.1-py3-none-any.whl#sha256=06d74fdadd6e1164c0e73b05472d1612812aa849f545052fa3b9fdd841b56002
+https://pypi.tuna.tsinghua.edu.cn/packages/cc/94/5f7079a0e00bd6863ef8f1da638721e9da21e5bacee597595b318f71d62e/Werkzeug-1.0.1-py2.py3-none-any.whl#sha256=2de2a5db0baeae7b2d2664949077c2ac63fbd16d98da0ff71837f7d1dea3fd43
