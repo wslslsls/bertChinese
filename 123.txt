@@ -23,3 +23,9 @@ https://pypi.tuna.tsinghua.edu.cn/packages/ab/2f/c6f380aec0b064bccbd81141fecba98
 
 https://pypi.tuna.tsinghua.edu.cn/packages/86/6c/9eabce1c1cdaa657751a802f94d71ca29b8f82e10cac97c3fd5f8c82736c/google_pasta-0.1.1-py3-none-any.whl#sha256=06d74fdadd6e1164c0e73b05472d1612812aa849f545052fa3b9fdd841b56002
 https://pypi.tuna.tsinghua.edu.cn/packages/cc/94/5f7079a0e00bd6863ef8f1da638721e9da21e5bacee597595b318f71d62e/Werkzeug-1.0.1-py2.py3-none-any.whl#sha256=2de2a5db0baeae7b2d2664949077c2ac63fbd16d98da0ff71837f7d1dea3fd43
+
+
+
+
+https://pypi.tuna.tsinghua.edu.cn/packages/c6/4f/63f6f16d3f44a764a3b66c6233e133baf912e198a93e14c39ee991f587d0/numpy-1.23.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=d208a0f8729f3fb790ed18a003f3a57895b989b40ea4dce4717e9cf4af62c6bb
+https://pypi.tuna.tsinghua.edu.cn/packages/db/51/a507c856293ab05cdc1db77ff4bc1268ddd39f29e7dc4919aa497f0adbec/charset_normalizer-2.1.1-py3-none-any.whl#sha256=83e9a75d1911279afd89352c68b45348559d1fc0506b054b346651b5e7fee29f
