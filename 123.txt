@@ -29,3 +29,7 @@ https://pypi.tuna.tsinghua.edu.cn/packages/cc/94/5f7079a0e00bd6863ef8f1da638721e
 
 https://pypi.tuna.tsinghua.edu.cn/packages/c6/4f/63f6f16d3f44a764a3b66c6233e133baf912e198a93e14c39ee991f587d0/numpy-1.23.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=d208a0f8729f3fb790ed18a003f3a57895b989b40ea4dce4717e9cf4af62c6bb
 https://pypi.tuna.tsinghua.edu.cn/packages/db/51/a507c856293ab05cdc1db77ff4bc1268ddd39f29e7dc4919aa497f0adbec/charset_normalizer-2.1.1-py3-none-any.whl#sha256=83e9a75d1911279afd89352c68b45348559d1fc0506b054b346651b5e7fee29f
+
+
+
+https://pypi.tuna.tsinghua.edu.cn/packages/d4/58/06f430ff7607a2929f80f07bfd820acbc508a4e977542fefcc522cde9dff/jsonlines-2.0.0-py3-none-any.whl#sha256=bfb043d4e25fd894dca67b1f2adf014e493cb65d0f18b3a74a98bfcd97c3d983
